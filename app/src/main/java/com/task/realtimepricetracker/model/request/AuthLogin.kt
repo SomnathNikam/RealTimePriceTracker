@@ -1,4 +1,4 @@
-package com.task.realtimepricetracker.model
+package com.task.realtimepricetracker.model.request
 
 data class AuthLogin(
     val username:String,
